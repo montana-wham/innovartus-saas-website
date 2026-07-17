@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html>
+<head><title>Innovartus SaaS</title></head>
+<body><h1>Welcome to Innovartus SaaS Application</h1></body>
+</html>
